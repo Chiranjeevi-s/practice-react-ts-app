@@ -1,3 +1,9 @@
 Dont keep anything in Main branch 
 will commit accordingly in Branch 
 and keep updates of that branch in this note itself
+
+feat/demo-1:
+Planning to do setup fast
+react-router-dom - DONE
+AXIOS setup - DONE
+redux

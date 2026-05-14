@@ -1,0 +1,12 @@
+.header {
+  height: 50px;
+  background: black;
+  color: white;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  background: black;
+  color: white;
+}
